@@ -6,8 +6,8 @@ The VS Code Tool that helps developers develop faster.
 
 ### [Download for Windows](https://hcpipomawpcqsalbnegl.supabase.co/storage/v1/object/public/Personal/Make%20a%20File%20(VS%20Code%20Tool)%20(1).exe?download=)
 
-```ansi
-[2;47m [0m[2;31m[2;47m[4;31m[1;31m[!] NOTICE:[0m[4;31m[4;47m[0m[2;31m[2;47m[0m[2;31m[0m[2;47m [0m
+```
+[!] NOTICE:
 Please note that your browser might flag the .exe because it is
 using the subproccess extenstion.In case you don't trust stangers
 on the internet,you can use the .py file.
