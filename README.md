@@ -24,5 +24,5 @@ And that's it!
 
 ## Authors
 
-- [@MooDooHacking](https://github.com/MooDooHacking/)
+- [@geraldDuck](https://github.com/geraldDuck/)
 
