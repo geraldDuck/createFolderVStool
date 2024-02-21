@@ -8,9 +8,12 @@ The VS Code Tool that helps developers develop faster.
 
 ```
 [!] NOTICE:
-Please note that your browser might flag the .exe because it is
-using the subproccess extenstion.In case you don't trust stangers
-on the internet,you can use the .py file.
+Please note that your browser might flag the .exe file as
+suspicious or harmful. This is because this tool uses the
+python subproccess extension which manipulates the CMD.
+In case you don't trust stangers on the internet, you can
+use the .py file instead, but it is highly recommended you
+use the .exe.
 ```
 
 ## HOW TO USE
