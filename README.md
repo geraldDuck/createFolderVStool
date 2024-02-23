@@ -1,4 +1,4 @@
-## this pieace of shit is broke, gotta fix it
+## this pieace of shit is broken, gotta fix it
 # createFolderVStool
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
