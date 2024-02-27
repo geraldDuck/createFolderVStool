@@ -9,6 +9,6 @@ dir:str = str("%USERPROFILE%\\OneDrive\\Desktop")
 folder_name:str = str(input("Folder name: "))
 file_name:str = str(input("File name(e.g. main.py, main.lua): "))
 
-subprocess.run(f"cd %USERPROFILE%\\OneDrive\\Desktop && mkdir {folder_name} && cd {folder_name} && type nul > {file_name} && code .", shell=True)import subprocess
+subprocess.run(f"cd {dir} && mkdir {folder_name} && cd {folder_name} && type nul > {file_name} && code .", shell=True)import subprocess
 t.sleep(1)
 exit()
