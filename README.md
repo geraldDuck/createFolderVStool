@@ -13,7 +13,7 @@ to actually fix this sh**ty project. What
 started as a UI tool is now simply a command
 line interface.
 (cuz f**k you and I'm too lazy)
-(P.S. I censored the cuss words (yippe!!))
+(P.S. I censored the cuss words (yippee!!))
 ``` 
 
 ## HOW TO USE
